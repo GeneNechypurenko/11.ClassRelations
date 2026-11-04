@@ -7,4 +7,5 @@
   <Project Path="02.Composition/02.Composition.vcxproj" Id="7125fdfc-1904-4588-a8f1-54a7f6796c02" />
   <Project Path="03.Aggregation/03.Aggregation.vcxproj" Id="7b1e81a8-52bf-4754-9a64-c86cb976560d" />
   <Project Path="HomeWork31/HomeWork31.vcxproj" Id="9cb857e2-b024-4a78-a71a-66c3d6de433e" />
+  <Project Path="HW31Solution/HW31Solution.vcxproj" Id="4f196d56-1845-4d72-8a2f-80c226e21041" />
 </Solution>
